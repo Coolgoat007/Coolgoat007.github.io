@@ -80,6 +80,6 @@ Accepted by **ICNC-FSKD 2026** :contentReference[oaicite:1]{index=1}
 
 <div style="margin-top: 20px;">
   <script type="text/javascript" id="clustrmaps"
-    src="//clustrmaps.com/map_v2.js?d=fmsvomGmC_MvtUReanfeZqKKnHOuYw3NmrtjW3Nc_38&cl=ffffff&w=a">
+    src="https://clustrmaps.com/map_v2.js?d=fmsvomGmC_MvtUReanfeZqKKnHOuYw3NmrtjW3Nc_38&cl=ffffff&w=a">
   </script>
 </div>
