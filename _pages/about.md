@@ -4,9 +4,7 @@ title: "Jichen Yao 姚霁宸"
 author_profile: true
 ---
 
-# Jichen Yao 姚霁宸
-
-Hello, I am an undergraduate student in Computer Science and Technology at Northeastern University (China).
+Hi, I am an undergraduate student in Computer Science and Technology at Northeastern University (China).
 
 My research focuses on **Natural Language Processing (NLP)**, **Large Language Model (LLM) architectures**, and **Affective Computing**, with particular attention to:
 
