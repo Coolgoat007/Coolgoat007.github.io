@@ -58,13 +58,13 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
-  facebook         : "61563400589947" # Username
+  facebook         : "profile.php?id=61563400589947" # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "jichenyao825" # Username
+  instagram        : "jichenyao825/" # Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
