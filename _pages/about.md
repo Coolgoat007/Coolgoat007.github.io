@@ -6,12 +6,11 @@ author_profile: true
 
 Hi, I am an undergraduate student in Computer Science and Technology at Northeastern University (China).
 
-My research focuses on **Natural Language Processing (NLP)**, **Large Language Model (LLM) architectures**, and **Affective Computing**, with particular attention to:
+My research focuses on **Large Language Models (LLMs) architectures**, **human-centric affective AI**, and **natural language understanding**. I work on:
 
-- Long-context modeling for LLMs  
-- Emotional support dialogue systems  
-- Aspect-based sentiment analysis (ABSA)  
-- Cognitive-inspired alignment strategies  
+- Novel LLM architectures beyond standard Transformer designs  
+- Emotion-aware dialogue systems and cognitive-inspired alignment  
+- Interpretable and efficient natural language understanding
 
 ---
 
@@ -25,54 +24,45 @@ My research focuses on **Natural Language Processing (NLP)**, **Large Language M
 ## Research Projects
 
 ### Long-context LLM Architecture
-
-**Fractal Spring Pyramid Memory Architecture for Long Context in LLMs**
+**Fractal Spring Pyramid Memory Architecture for Long Context in LLMs**  
+*Mar 2026 – Present | Advisor: Assoc. Prof. Shi Feng*
 
 - Proposed a hierarchical memory system (Micro / Meso / Macro)  
-- Reduced KV-cache growth from linear to logarithmic  
+- Compressed KV-cache growth from linear to logarithmic  
 - Designed adaptive feature-level gating based on ReZero  
 
 ---
 
 ### Emotional Dialogue Systems
+**Cognitive-Inspired Strategy Optimization for Emotional Support Dialogue**  
+*Dec 2025 – Apr 2026 | Advisor: Assoc. Prof. Shi Feng*
 
-**Cognitive-Inspired Strategy Optimization for Emotional Support Dialogue**
-
-- Built MCTS-based preference data generation pipeline  
-- Introduced cognitive alignment reward mechanism  
-- Identified and analyzed *Verbosity Tax* phenomenon in LLMs  
+- Built an MCTS-based preference data generation pipeline guided by psychological principles  
+- Introduced a cognitive alignment reward signal to refine dialogue strategies  
+- Identified and analyzed the *Verbosity Tax* phenomenon across LLaMA and Qwen  
 
 ---
 
 ### Aspect-based Sentiment Analysis
+**Aspect-aware Multi-head Cross-Attention (AMCA)**  
+*Jul 2025 – Nov 2025 | Advisor: Assoc. Prof. Shi Feng*
 
-**Aspect-aware Multi-head Cross-Attention (AMCA)**
-
-- Proposed an end-to-end cross-attention framework for ABSA  
-- Improved implicit aspect detection via learnable aspect queries  
-- Achieved SOTA-level performance on SemEval datasets  
+- Proposed an end-to-end cross-attention framework for ABSA with learnable aspect queries  
+- Improved implicit aspect detection and achieved state-of-the-art results on multiple datasets
 
 📄 **Publication:**  
-Jichen Yao, Shi Feng.  
-*Aspect-aware Multi-head Cross-Attention for Aspect-based Sentiment Classification.*  
-Accepted by **ICNC-FSKD 2026** :contentReference[oaicite:1]{index=1}  
-
----
-
-## Research Interests
-
-- Natural Language Processing (NLP)  
-- Large Language Models (LLMs)  
-- Long-context Modeling  
-- Affective Computing  
-- Aspect-based Sentiment Analysis  
+**Jichen Yao**, Shi Feng.  
+*Aspect-Aware Multi-Head Cross-Attention for Aspect-Based Sentiment Classification.*  
+Accepted by **ICNC-FSKD 2026**  
 
 ---
 
 ## News
 
-- **2026**: Paper accepted by ICNC-FSKD  
-- **2026**: Ongoing research on long-context LLM memory architectures  
+- **May 2026**: Paper *Aspect-Aware Multi-Head Cross-Attention* accepted by ICNC-FSKD 2026.  
+- **Mar 2026**: Started working on the Fractal Spring Pyramid Memory Architecture for long-context LLMs.  
+- **Dec 2025**: Started the cognitive-inspired emotional support dialogue project (completed Apr 2026).  
+- **Jul 2025**: Started the AMCA project for aspect-based sentiment analysis (completed Nov 2025).
 
 ---
 
