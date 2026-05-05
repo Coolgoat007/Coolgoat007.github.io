@@ -6,7 +6,7 @@ author_profile: true
 
 Hi, I am an undergraduate student in Computer Science and Technology at Northeastern University (China).
 
-My research focuses on **Large Language Models (LLMs) architectures**, **human-centric affective AI**, and **natural language understanding**. I work on:
+My research focuses on **Large Language Models (LLMs) architectures**, **human-centric affective AI**, and **natural language understanding**. I mainly work on:
 
 - Novel LLM architectures beyond standard Transformer designs  
 - Emotion-aware dialogue systems and cognitive-inspired alignment  
