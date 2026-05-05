@@ -50,7 +50,9 @@ My research focuses on **Large Language Models (LLMs) architectures**, **human-c
 - Proposed an end-to-end cross-attention framework for ABSA with learnable aspect queries  
 - Improved implicit aspect detection and achieved state-of-the-art results on multiple datasets
 
-📄 **Publication:**  
+---
+
+## 📄 Publication:
 **Jichen Yao**, Shi Feng.  
 *Aspect-Aware Multi-Head Cross-Attention for Aspect-Based Sentiment Classification.*  
 Accepted by **ICNC-FSKD 2026**  
