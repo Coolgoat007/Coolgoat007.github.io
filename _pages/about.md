@@ -35,7 +35,7 @@ My research focuses on **Large Language Models (LLMs) architectures**, **human-c
 
 ### Emotional Dialogue Systems
 **Cognitive-Inspired Strategy Optimization for Emotional Support Dialogue**  
-*Dec 2025 – Apr 2026 | Advisor: Assoc. Prof. Shi Feng*
+*Dec 2025 – Present | Advisor: Assoc. Prof. Shi Feng*
 
 - Built an MCTS-based preference data generation pipeline guided by psychological principles  
 - Introduced a cognitive alignment reward signal to refine dialogue strategies  
@@ -63,7 +63,7 @@ Accepted by **ICNC-FSKD 2026**
 
 - **May 2026**: Paper *Aspect-Aware Multi-Head Cross-Attention* accepted by ICNC-FSKD 2026.  
 - **Mar 2026**: Started working on the Fractal Spring Pyramid Memory Architecture for long-context LLMs.  
-- **Dec 2025**: Started the cognitive-inspired emotional support dialogue project (completed Apr 2026).  
+- **Dec 2025**: Started the cognitive-inspired emotional support dialogue project.  
 - **Jul 2025**: Started the AMCA project for aspect-based sentiment analysis (completed Nov 2025).
 
 ---
