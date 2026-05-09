@@ -52,9 +52,8 @@ My research focuses on **Large Language Models (LLMs) architectures**, **human-c
 
 ---
 
-<a id="publications"></a>
+<h2 id="publications">📄 Publications</h2>
 
-## 📄 Publications
 **Jichen Yao**, Shi Feng.  
 *Aspect-Aware Multi-Head Cross-Attention for Aspect-Based Sentiment Classification.*  
 [📄 Paper](/files/AMCA.pdf)  
