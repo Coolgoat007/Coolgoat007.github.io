@@ -13,8 +13,6 @@ My current research primarily focuses on the design, optimization, and evaluatio
 - Emotional dialogue systems
 - Natural language understanding
 
-I am actively seeking Ph.D. opportunities in large language models, affective AI, and human-centered NLP.
-
 ---
 
 ## Education
