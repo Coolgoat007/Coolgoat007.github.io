@@ -4,20 +4,23 @@ title: "Jichen Yao 姚霁宸"
 author_profile: true
 ---
 
-Hi, I am an undergraduate student in Computer Science and Technology at Northeastern University (China).
+Hello, I am an undergraduate student in Computer Science and Technology at Northeastern University, China. I am currently working with [Assoc. Prof. Shi Feng](https://neu-datamining.github.io/cse/fengshi/) on large language models and affective computing.
 
-My research focuses on **Large Language Models (LLMs) architectures**, **human-centric affective AI**, and **natural language understanding**. I mainly work on:
+My current research primarily focuses on the design, optimization, and evaluation of human-centered large language model systems, with particular attention to its applications in:
 
-- Novel LLM architectures beyond standard Transformer designs  
-- Emotion-aware dialogue systems and cognitive-inspired alignment  
-- Interpretable and efficient natural language understanding
+- LLM architectures and alignment
+- Affective computing
+- Emotional dialogue systems
+- Natural language understanding
+
+I am actively seeking Ph.D. opportunities in large language models, affective AI, and human-centered NLP.
 
 ---
 
 ## Education
 
 - **Sept 2023 – Jul 2027 (Expected)**  
-  B.Sc. in Computer Science and Technology, Northeastern University  
+  B.Sc. in Dept. of Computer Science and Engineering, [Northeastern University](https://www.neu.edu.cn/). Advisor: [Assoc. Prof. Shi Feng](https://neu-datamining.github.io/cse/fengshi/), [Prof. Daling Wang](https://neu-datamining.github.io/wangdl.htm) and [Prof. Tong Xiao](https://www.nlplab.com/members/xiaotong) 
 
 ---
 
