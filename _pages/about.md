@@ -56,7 +56,7 @@ My research focuses on **Large Language Models (LLMs) architectures**, **human-c
 
 **Jichen Yao**, Shi Feng.  
 *Aspect-Aware Multi-Head Cross-Attention for Aspect-Based Sentiment Classification.*  
-[📄 Paper](/files/AMCA.pdf)  
+[[📄 Paper]](/files/AMCA.pdf)  
 Accepted by **ICNC-FSKD 2026**  
 
 ---
@@ -65,13 +65,13 @@ Accepted by **ICNC-FSKD 2026**
 
 ### Long-Term Consistency and Persistent Behavior in Language Models  
 **Recurrent Latent States for Long-Term Interactive Language Models**  
-[📄 Research Proposal](/files/RP2.pdf)
+[[📄 Research Proposal]](/files/RP2.pdf)
 
 This proposal studies how language models can maintain continuously evolving internal states across sessions, aiming to improve long-term consistency, user preference adaptation, and persistent behavioral patterns.
 
 ### State-Synchronized Training for Empathic Dialogue  
 **Empathic Dialogue as Synchronization in Coupled Affective Dynamical Systems**  
-[📄 Research Proposal](/files/RP1.pdf)
+[[📄 Research Proposal]](/files/RP1.pdf)
 
 This proposal explores empathic dialogue as a dynamic synchronization process between user and agent affective states, aiming to improve emotional support, affect tracking, and adaptive response generation.
 
