@@ -8,9 +8,15 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "CV"
+    url: https://coolgoat007.github.io/files/CV.pdf
+    
+  - title: "Research Proposals"
+    url: /#research-proposals
+    
   - title: "Publications"
     url: /#publications
-
+    
   # - title: "Talks"
   #   url: /talks/    
 
@@ -22,9 +28,6 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: https://coolgoat007.github.io/files/CV.pdf
     
   # - title: "CV"
   #   url: /cv-json/
