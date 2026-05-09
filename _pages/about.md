@@ -33,18 +33,18 @@ My research focuses on **Large Language Models (LLMs) architectures**, **human-c
 
 ---
 
-### Emotional Dialogue Systems
-**Cognitive-Inspired Strategy Optimization for Emotional Support Dialogue**  
-*Dec 2025 – Present | Advisor: Assoc. Prof. Shi Feng*
+### Emotional Support Conversations
+**Cognitive-Inspired Preference Optimization for Emotional Support Conversations**  
+*Dec 2025 – May 2026 | Advisor: Assoc. Prof. Shi Feng*
 
-- Built an MCTS-based preference data generation pipeline guided by psychological principles  
-- Introduced a cognitive alignment reward signal to refine dialogue strategies  
-- Identified and analyzed the *Verbosity Tax* phenomenon across LLaMA and Qwen  
+- Built an MCTS-based preference data construction pipeline guided by psychological principles  
+- Introduced a cognitive alignment reward signal to encourage validation-before-intervention support  
+- Identified and analyzed the model-dependent *Verbosity Tax* phenomenon in LLM-as-a-judge evaluation
 
 ---
 
 ### Aspect-based Sentiment Analysis
-**Aspect-aware Multi-head Cross-Attention (AMCA)**  
+**Aspect-aware Multi-head Cross-Attention (AMCA)** [[📄 Paper]](/files/AMCA.pdf)  
 *Jul 2025 – Nov 2025 | Advisor: Assoc. Prof. Shi Feng*
 
 - Proposed an end-to-end cross-attention framework for ABSA with learnable aspect queries  
@@ -52,9 +52,12 @@ My research focuses on **Large Language Models (LLMs) architectures**, **human-c
 
 ---
 
-## 📄 Publication:
+<a id="publications"></a>
+
+## 📄 Publications
 **Jichen Yao**, Shi Feng.  
 *Aspect-Aware Multi-Head Cross-Attention for Aspect-Based Sentiment Classification.*  
+[📄 Paper](/files/AMCA.pdf)  
 Accepted by **ICNC-FSKD 2026**  
 
 ---
@@ -63,7 +66,7 @@ Accepted by **ICNC-FSKD 2026**
 
 - **May 2026**: Paper *Aspect-Aware Multi-Head Cross-Attention* accepted by ICNC-FSKD 2026.  
 - **Mar 2026**: Started working on the Fractal Spring Pyramid Memory Architecture for long-context LLMs.  
-- **Dec 2025**: Started the cognitive-inspired emotional support dialogue project.  
+- **Dec 2025**: Started the cognitive-inspired emotional support dialogue project (completed May 2026).  
 - **Jul 2025**: Started the AMCA project for aspect-based sentiment analysis (completed Nov 2025).
 
 ---
