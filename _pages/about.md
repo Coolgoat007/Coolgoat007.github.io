@@ -6,12 +6,11 @@ author_profile: true
 
 Hello, I am an undergraduate student in Computer Science and Technology at Northeastern University, China. I am currently working with [Assoc. Prof. Shi Feng](https://neu-datamining.github.io/cse/fengshi/) on large language models and affective computing.
 
-My current research primarily focuses on the design, optimization, and evaluation of human-centered large language model systems, with particular attention to its applications in:
+My research interests broadly lie in human-centered large language model systems, particularly in:
 
 - LLM architectures and alignment
-- Affective computing
-- Emotional dialogue systems
-- Natural language understanding
+- Affective computing and emotional dialogue systems
+- Natural language understanding and evaluation
 
 ---
 
@@ -30,7 +29,7 @@ My current research primarily focuses on the design, optimization, and evaluatio
 
 - Proposed a hierarchical memory system (Micro / Meso / Macro)  
 - Compressed KV-cache growth from linear to logarithmic  
-- Designed adaptive feature-level gating based on ReZero  
+- Designed adaptive feature-level gating mechanisms based on ReZero  
 
 ---
 
