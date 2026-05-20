@@ -34,12 +34,13 @@ My research interests broadly lie in human-centered large language model systems
 ---
 
 ### Emotional Support Conversations
-**Cognitive-Inspired Preference Optimization for Emotional Support Conversations**  
-*Dec 2025 – May 2026 | Advisor: Assoc. Prof. Shi Feng*
+**Beyond Helpfulness: Cognitive-Inspired Preference Construction for Therapeutically Paced Emotional Support Conversations**  
+*Dec 2025 – May 2026 | Advisor: Assoc. Prof. Shi Feng*  
 
-- Built an MCTS-based preference data construction pipeline guided by psychological principles  
-- Introduced a cognitive alignment reward signal to encourage validation-before-intervention support  
-- Identified and analyzed the model-dependent *Verbosity Tax* phenomenon in LLM-as-a-judge evaluation
+- Studied therapeutic pacing in emotional support conversations, focusing on validation-before-intervention behavior  
+- Developed a CogCSO+MCTS-based preference construction framework guided by cognitive regulation principles  
+- Showed that cognitive-guided preference data improves support-content completeness, while conversational pacing remains a partially separable challenge  
+- Identified the *Verbosity Tax* phenomenon in LLM-as-a-judge evaluation, where evaluator framing can substantially shift model preferences  
 
 ---
 
@@ -82,7 +83,7 @@ This proposal explores empathic dialogue as a dynamic synchronization process be
 - **May 2026**: Paper *Aspect-Aware Multi-Head Cross-Attention* accepted by ICNC-FSKD 2026.  
 - **Mar 2026**: Started working on the Fractal Spring Pyramid Memory Architecture for long-context LLMs.  
 - **Dec 2025**: Started the cognitive-inspired emotional support dialogue project (completed May 2026).  
-- **Jul 2025**: Started the AMCA project for aspect-based sentiment analysis (completed Nov 2025).
+- **2025年7月**: Started the AMCA project for aspect-based sentiment analysis (completed2025年11月).
 
 ---
 
