@@ -27,9 +27,10 @@ My research interests broadly lie in human-centered large language model systems
 **Fractal Spring Pyramid Memory Architecture for Long Context in LLMs**  
 *Mar 2026 – Present | Advisor: Assoc. Prof. Shi Feng*
 
-- Proposed a hierarchical memory system (Micro / Meso / Macro)  
-- Compressed KV-cache growth from linear to logarithmic  
-- Designed adaptive feature-level gating mechanisms based on ReZero  
+- Preliminary design of a multi-level memory pyramid framework for long-context language models  
+- Aims to reduce KV-cache overhead while preserving important contextual memory  
+- Introduces adaptive gating mechanisms as a key design component for memory selection and update  
+- Currently undergoing empirical validation and design refinement  
 
 ---
 
@@ -80,8 +81,8 @@ This proposal explores empathic dialogue as a dynamic synchronization process be
 
 ## News
 
-- **May 2026**: Paper *Aspect-Aware Multi-Head Cross-Attention* accepted by ICNC-FSKD 2026.  
-- **Mar 2026**: Started working on the Fractal Spring Pyramid Memory Architecture for long-context LLMs.  
+- **2026年5月**: Paper *Aspect-Aware Multi-Head Cross-Attention* accepted by ICNC-FSKD 2026.  
+- **3月 2026**: Started working on the Fractal Spring Pyramid Memory Architecture for long-context LLMs.  
 - **Dec 2025**: Started the cognitive-inspired emotional support dialogue project (completed May 2026).  
 - **2025年7月**: Started the AMCA project for aspect-based sentiment analysis (completed2025年11月).
 
