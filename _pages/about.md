@@ -41,7 +41,9 @@ My research interests broadly lie in human-centered large language model systems
 - Studied support-content completeness in emotional support conversations from the perspective of conversational pacing and preference construction  
 - Developed CogCSO, a cognitively structured preference construction framework built on CSO  
 - Incorporated therapeutic pacing principles into preference-data construction to encourage emotionally grounded support before intervention-oriented guidance  
-- Analyzed evaluator framing effects in ESC evaluation and identified the *Verbosity Tax* phenomenon  
+- Analyzed evaluator framing effects in ESC evaluation and identified the *Verbosity Tax* phenomenon
+
+- *📌 Status: Submitted to EMNLP 2026 (under ARR review)*  
 
 ---
 
