@@ -93,7 +93,5 @@ This proposal explores empathic dialogue as a dynamic synchronization process be
 ## Visitors
 
 <div style="margin-top: 20px;">
-  <script type="text/javascript" id="clustrmaps"
-    src="https://clustrmaps.com/map_v2.js?d=fmsvomGmC_MvtUReanfeZqKKnHOuYw3NmrtjW3Nc_38&cl=ffffff&w=a">
-  </script>
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=meNiL_vdpr1PzRoYKHhk_WSo0bh1jhNEbWl5Wp-R5dc&cl=ffffff&w=a"></script>
 </div>
