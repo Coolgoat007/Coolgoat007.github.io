@@ -4,13 +4,15 @@ title: "Jichen Yao 姚霁宸"
 author_profile: true
 ---
 
-Hello, I am an undergraduate student in Computer Science and Technology at Northeastern University, China. I am currently working with [Assoc. Prof. Shi Feng](https://neu-datamining.github.io/cse/fengshi/) on large language models and affective computing.
+Hello, I am an undergraduate student in Computer Science and Technology at Northeastern University, China. I am currently working with [Assoc. Prof. Shi Feng](https://neu-datamining.github.io/cse/fengshi/) on intelligent systems and large language models.
 
-My research interests broadly lie in human-centered large language model systems, particularly in:
+My research focuses on the design principles of intelligent systems. Rather than viewing AI systems purely as optimization problems, I am interested in understanding how intelligent capabilities emerge, organize, and evolve. I explore how principles from mature complex systems—including cognitive science, operating systems, and biological systems—can inspire the design of next-generation AI architectures.
 
-- LLM architectures and alignment
-- Affective computing and emotional dialogue systems
-- Natural language understanding and evaluation
+My current research interests include:
+
+- Intelligent system architecture and capability formation
+- Large language models and agent architectures
+- Human-centered AI and affective computing
 
 ---
 
@@ -21,16 +23,15 @@ My research interests broadly lie in human-centered large language model systems
 
 ---
 
-## Research Projects
+## Research
 
-### Long-context LLM Architecture
-**Fractal Spring Pyramid Memory Architecture for Long Context in LLMs**  
-*Mar 2026 – Present | Advisor: Assoc. Prof. Shi Feng*
+### Intelligent System Architecture
+**Soul-Agent: An Architecture for Long-term Agent Identity and Evolution**
+*Jun 2026 – Present | Advisor: Assoc. Prof. Shi Feng*
 
-- Preliminary design of a multi-level memory pyramid framework for long-context language models  
-- Aims to reduce KV-cache overhead while preserving important contextual memory  
-- Introduces adaptive gating mechanisms as a key design component for memory selection and update  
-- Currently undergoing empirical validation and design refinement  
+- Designed a three-layer agent architecture that separates immutable identity/value core, governed long-term memory, and current interaction context  
+- Key mechanism: the LLM generates candidates only; a governance kernel serves as the sole authority over all state updates, enforced through architectural capability boundaries rather than instruction-following  
+- Implemented the complete architecture and validated its structural properties through 552 automated tests, with all architectural invariants preserved across 29 adversarial scenarios using a live DeepSeek model 
 
 ---
 
@@ -58,6 +59,8 @@ My research interests broadly lie in human-centered large language model systems
 
 <h2 id="publications">📄 Publications</h2>
 
+(* indicates first author)
+
 **Jichen Yao**, Shi Feng.  
 *Aspect-Aware Multi-Head Cross-Attention for Aspect-Based Sentiment Classification.*  
 [[📄 Paper]](/files/AMCA.pdf)  
@@ -83,10 +86,16 @@ This proposal explores empathic dialogue as a dynamic synchronization process be
 
 ## News
 
+- **Jun 2026**: Launched Soul-Agent project (completed core architecture implementation and empirical validation).
 - **May 2026**: Paper *Aspect-Aware Multi-Head Cross-Attention* accepted by ICNC-FSKD 2026.  
-- **Mar 2026**: Started working on the Fractal Spring Pyramid Memory Architecture for long-context LLMs.  
-- **Dec 2025**: Started the cognitive-inspired emotional support dialogue project (completed May 2026).  
+- **Dec 2025**: Started the CogCSO project (completed May 2026 and submitted to EMNLP).  
 - **Jul 2025**: Started the AMCA project for aspect-based sentiment analysis (completed Nov 2025).
+
+---
+
+## Interests
+
+Outside of research, I enjoy singing, playing the piano, and table tennis. I also enjoy reading, hiking, and exploring different cities and natural landscapes. In my spare time, I enjoy Chinese tea culture and learning about traditional Chinese philosophy, history, and aesthetics.
 
 ---
 
