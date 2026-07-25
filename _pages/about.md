@@ -26,8 +26,8 @@ My current research interests include:
 ## Research
 
 ### Intelligent System Architecture
-**Soul-Agent: An Architecture for Long-term Agent Identity and Evolution**
-*Jun 2026 – Present | Advisor: Assoc. Prof. Shi Feng*
+**Soul-Agent: An Architecture for Long-term Agent Identity and Evolution**  
+*Jun 2026 – Present | Advisor: Assoc. Prof. Shi Feng*  
 
 - Designed a three-layer agent architecture that separates immutable identity/value core, governed long-term memory, and current interaction context  
 - Key mechanism: the LLM generates candidates only; a governance kernel serves as the sole authority over all state updates, enforced through architectural capability boundaries rather than instruction-following  
@@ -50,7 +50,7 @@ My current research interests include:
 
 ### Aspect-based Sentiment Analysis
 **Aspect-aware Multi-head Cross-Attention (AMCA)** [[📄 Paper]](/files/AMCA.pdf)  
-*Jul 2025 – Nov 2025 | Advisor: Assoc. Prof. Shi Feng*
+*Jul 2025 – Nov 2025 | Advisor: Assoc. Prof. Shi Feng*  
 
 - Proposed an end-to-end cross-attention framework for ABSA with learnable aspect queries  
 - Improved implicit aspect detection and achieved state-of-the-art results on multiple datasets
