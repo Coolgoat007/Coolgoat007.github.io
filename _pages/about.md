@@ -19,7 +19,7 @@ My current research interests include:
 ## Education
 
 - **Sept 2023 – Jul 2027 (Expected)**  
-  B.Sc. in Dept. of Computer Science and Engineering, [Northeastern University](https://www.neu.edu.cn/). Advisor: [Assoc. Prof. Shi Feng](https://neu-datamining.github.io/cse/fengshi/), [Prof. Daling Wang](https://neu-datamining.github.io/wangdl.htm) and [Prof. Tong Xiao](https://www.nlplab.com/members/xiaotong) 
+  B.Sc. in Dept. of Computer Science and Engineering, [Northeastern University](https://www.neu.edu.cn/). Advisors: [Assoc. Prof. Shi Feng](https://neu-datamining.github.io/cse/fengshi/), [Prof. Daling Wang](https://neu-datamining.github.io/wangdl.htm) and [Prof. Tong Xiao](https://www.nlplab.com/members/xiaotong) 
 
 ---
 
@@ -59,8 +59,6 @@ My current research interests include:
 
 <h2 id="publications">📄 Publications</h2>
 
-(* indicates first author)
-
 **Jichen Yao**, Shi Feng.  
 *Aspect-Aware Multi-Head Cross-Attention for Aspect-Based Sentiment Classification.*  
 [[📄 Paper]](/files/AMCA.pdf)  
@@ -70,17 +68,21 @@ Accepted by **ICNC-FSKD 2026**
 
 <h2 id="research-proposals">Research Proposals</h2>
 
+{% comment %}
+
 ### Long-Term Consistency and Persistent Behavior in Language Models  
 **Recurrent Latent States for Long-Term Interactive Language Models**  
 [[📄 Research Proposal]](/files/RP2.pdf)
 
 This proposal studies how language models can maintain continuously evolving internal states across sessions, aiming to improve long-term consistency, user preference adaptation, and persistent behavioral patterns.
 
+{% endcomment %}
+
 ### State-Synchronized Training for Empathic Dialogue  
 **Empathic Dialogue as Synchronization in Coupled Affective Dynamical Systems**  
 [[📄 Research Proposal]](/files/RP1.pdf)
 
-This proposal explores empathic dialogue as a dynamic synchronization process between user and agent affective states, aiming to improve emotional support, affect tracking, and adaptive response generation.
+This proposal models empathic dialogue as a process of bounded affective co-regulation between the user and the agent. It studies how continuous affective states can support emotionally grounded and adaptive responses without reducing empathy to simple emotional imitation.
 
 ---
 
