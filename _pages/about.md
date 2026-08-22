@@ -44,7 +44,7 @@ My current research interests include:
 - Incorporated therapeutic pacing principles into preference-data construction to encourage emotionally grounded support before intervention-oriented guidance  
 - Analyzed evaluator framing effects in ESC evaluation and identified the *Verbosity Tax* phenomenon
 
-- *📌 Status: Submitted to EMNLP 2026 (under ARR review)*  
+- *📌 First-author manuscript submitted to ADMA 2026*  
 
 ---
 
@@ -88,7 +88,7 @@ This proposal explores empathic dialogue as a dynamic synchronization process be
 
 - **Jun 2026**: Launched Soul-Agent project (completed core architecture implementation and empirical validation).
 - **May 2026**: Paper *Aspect-Aware Multi-Head Cross-Attention* accepted by ICNC-FSKD 2026.  
-- **Dec 2025**: Started the CogCSO project (completed May 2026 and submitted to EMNLP).  
+- **Dec 2025**: Started the CogCSO project, which was completed in May 2026 and subsequently submitted to ADMA 2026.  
 - **Jul 2025**: Started the AMCA project for aspect-based sentiment analysis (completed Nov 2025).
 
 ---
